@@ -1,13 +1,13 @@
 /* Add a background color to the header element */
-header {
+header{
     background-color: gray;
   }
 /* Add a fun background color to the main element */
-main {
+main{
     background-color: rgb(77, 140, 161);
   }
 /* Align the h1 containing your name in the center of the header*/
-h1 {
+h1{
     
     text-align: center;
   }
@@ -18,9 +18,15 @@ p{
 
   }
 /* Put a border around your image */
-img {
+img{
     border: 5px solid #555;
   }
 /* Change the font-family of your list */
-
+ul{
+    font-family: italic;
+  }
 /* Add a background color to the footer element */
+footer{ 
+    background-color: skyblue
+
+}
